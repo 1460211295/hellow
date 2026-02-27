@@ -2,7 +2,7 @@
 defineOptions({
   name: "Level3"
 })
-asdfasdf = 123;
+asdfasdf = 123
 const text = ref("")
 </script>
 
